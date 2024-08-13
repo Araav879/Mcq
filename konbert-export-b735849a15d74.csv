@@ -1,0 +1,71 @@
+Question Number,Question,Option A,Option B,Option C,Option D,Answer
+1,"When a new text document is created in MS Office 2016, the default text size of the document is:",12 points,14 points,10 points,11 points,12 points
+2,Where can you find the emoticons in an instant messaging conversation window?,At the middle of the chat window,Anywhere in the chat window,At the top of the chat window,At the bottom of the chat window,At the bottom of the chat window
+3,The default width of a column in MS Excel is:,7 characters,8 characters,6 characters,9 characters,7 characters
+4,"In MS Word, which option allows you to align text in a way that it appears vertically at the bottom of a cell or text box?",Center Alignment,Bottom Alignment,Justify Alignment,Distributed Alignment,Bottom Alignment
+5,"In MS Word, which feature allows you to create different headers and footers for odd and even pages in a document?",Section Breaks,Different First Page Breaks,Page Breaks,Different Odd & Even Pages,Different Odd & Even Pages
+6,We can add a table in an MS Word document from which of the following tabs?,Design Tab,View Tab,Home Tab,Insert Tab,Insert Tab
+7,The moderate margin of a page in MS Word can be applied to the page from which of the following?,Review tab,Page Layout Tab,Design Tab,View Tab,Page Layout Tab
+8,Symmetric encryption is also known as:,Public-key encryption,Asymmetric encryption,Conventional encryption,None of the above,Conventional encryption
+9,Which technology is associated with providing high-speed wireless data transmission for mobile devices?,GPRS,Wi-Max,4G,5G,5G
+10,What function does the public key serve in digital signature verification?,To decrypt the digital signature,To encrypt the digital signature,To calculate the hash value of the message or file content,To ensure confidentiality during transmission,To ensure confidentiality during transmission
+11,Which of the following is an example of multi-factor authentication for PC security?,Antivirus software,Fingerprint scan,Firewall protection,Encryption,Fingerprint scan
+12,"In Microsoft Excel, which chart type is best suited for comparing proportions or percentages of a whole?",Pie Chart,Line Chart,Scatter Chart,Bar Chart,Pie Chart
+13,Which feature in MS Word allows you to see a document's layout and formatting as it will appear when printed?,Print Preview,Reading View,Web Layout,Draft View,Print Preview
+14,"In MS Word, which option allows you to insert a new column in a table while simultaneously shifting the existing columns to the right?",Insert Column to the Right,Insert Table Column,Insert Column to the Left,Insert Columns,Insert Column to the Right
+15,To create a new MS Word document,"which of the following steps is correct?""",File Tab → New,File Tab → Recent,File Tab → Start,File Tab → Open
+16,Which keyboard key is used to jump the cursor to the next cell of the table in MS Word?,Home,Shift,Tab,Ctrl,Tab
+17,"In MS Word, which icon from the Menu Bar is commonly used to save the current document?",The floppy disk icon,The undo icon,The envelope icon,The printer icon,The floppy disk icon
+18,"In MS Word, which option allows you to copy the selected text or object to the Clipboard while simultaneously removing it from its original location?",Paste,Copy,Cut,Drag-and-Drop,Cut
+19,Which social networking service places the biggest emphasis on professional networking?,Facebook,Google+,LinkedIn,Twitter,LinkedIn
+20,Which of the following steps is used to format a cell in an MS Excel Spreadsheet?,View → Select cell → Format,Select cell → Right Click → Format Cell,Menu → Select cell → Format,Select Cell → View → Format,Select cell → Right Click → Format Cell
+21,Which MS Excel function can be used to sum up the numbers entered in a group of cells?,SUM,AVERAGE,MAX,MIN,SUM
+22,Which Excel feature allows you to simultaneously edit the same cell or range of cells with multiple users in real-time?,Co-authoring,Data Validation,Conditional Formatting,Track Changes,Co-authoring
+23,Formulas in MS Excel always start with which of the following symbols?,=,!,#,$,=
+24,Which function is used to convert text to a number properly in Excel?,VALUE,TEXT,CONVERT,NUM,VALUE
+25,Which MS Excel function can be used to sum up the numbers entered in a group of cells?,SUM,AVERAGE,MAX,MIN,SUM
+26,Which Excel feature allows you to simultaneously edit the same cell or range of cells with multiple users in real-time?,Co-authoring,Data Validation,Conditional Formatting,Track Changes,Co-authoring
+27,Formulas in MS Excel always start with which of the following symbols?,=,!,#,$,=
+28,Which function is used to convert text to a number properly in Excel?,VALUE,TEXT,CONVERT,NUM,VALUE
+29,Which function in Excel is used to calculate the average of a range of cells?,SUM,AVERAGE,MEDIAN,MODE,AVERAGE
+30,"In MS Word, what feature allows you to track changes made to a document?",Track Changes,Comments,Versions,Highlighting,Track Changes
+31,"In Excel, which chart type is used to show trends over time?",Bar Chart,Pie Chart,Line Chart,Area Chart,Line Chart
+32,Which MS Office application is used for creating presentations?,Excel,Word,PowerPoint,Outlook,PowerPoint
+33,"In Excel, which function returns the largest value from a set of values?",MIN,MAX,SUM,AVERAGE,MAX
+34,What does the ‘AutoSum’ function do in Excel?,Automatically formats cells,Automatically adjusts column width,Automatically sums up a range of cells,Automatically converts text to numbers,Automatically sums up a range of cells
+35,"In MS Word, which option is used to apply a specific style to a paragraph?",Styles,Formatting,Themes,Templates,Styles
+36,In Excel,how can you quickly apply a filter to a range of data?,Select the data and click 'Filter' from the Data tab,Use the 'Sort & Filter' option from the Home tab,Right-click the data range and select 'Filter',Click 'Data Validation' from the Data tab
+37,Which shortcut key is used to save a document in MS Word?,Ctrl + P,Ctrl + C,Ctrl + S,Ctrl + X,Ctrl + S
+38,In Excel,which function calculates the total number of cells in a range that contain numeric values?,COUNTA,COUNT,SUM,AVERAGE
+39,What is the default file extension for a Microsoft Word document?,.docx,.xlsx,.pptx,.txt,.docx
+40,Which tab in Excel allows you to insert different types of charts?,Home,Insert,Data,Review,Insert
+41,"In MS Word, which feature is used to add headers and footers to a document?",Page Layout,References,Insert,Design,Insert
+42,Which Excel function is used to find the smallest value in a range of cells?,MIN,MAX,AVERAGE,SUM,MIN
+43,"In MS Word, how can you create a bulleted list?",Click on the 'Bullets' button in the Paragraph group,Use the 'Numbering' option from the Format tab,Apply the 'List' style from the Home tab,Insert a 'Table' and format it as a list,Click on the 'Bullets' button in the Paragraph group
+44,"Which Excel function returns the current date?,NOW""",DATE,TODAY,TIME,TODAY,
+45,"In MS Word, which option helps in checking the grammar and spelling of a document?",Proofing,Review,Editing,Formatting,Review
+46,"Which feature in Excel allows you to remove duplicate values from a dataset?,Remove Duplicates""",Filter,Sort,Find & Replace,Remove Duplicates,
+47,"In MS Word, what is the purpose of using the 'Find and Replace' feature?",To search for specific text and replace it with new text,To search and highlight text,To replace fonts in a document,To find and format text,To search for specific text and replace it with new text
+48,"In Excel, which function calculates the number of characters in a text string?",LEN,CHAR,TEXT,SEARCH,LEN
+49,What is the default page orientation in MS Word?,Portrait,Landscape,Square,Custom,Portrait
+50,"In Excel, which function is used to round a number to a specified number of digits?",ROUND,CEILING,FLOOR,TRUNC,ROUND
+51,"In MS Word, how can you apply a template to a new document?",Select 'File' → 'New' and choose a template,Use 'Insert' → 'Template',Click 'Design' → 'Templates',Apply a style from the 'Home' tab,Select 'File' → 'New' and choose a template
+52,Which Excel function is used to calculate the number of cells that meet a specific condition?,COUNTIF,SUMIF,AVERAGEIF,IF,COUNTIF
+53,"In MS Word, how can you insert a table of contents?",Select 'References' → 'Table of Contents',Use 'Insert' → 'Table of Contents',Click 'Design' → 'Table of Contents',Apply a 'Table of Contents' style from 'Home',Select 'References' → 'Table of Contents'
+54,"Which function in Excel returns the value of the first argument if it is not blank, and the second argument if the first argument is blank?",IF,ISBLANK,COALESCE,IFERROR,COALESCE
+55,"In MS Word, what feature allows you to create a cover page?",Select 'Insert' → 'Cover Page',Use 'Design' → 'Cover Page',Click 'Page Layout' → 'Cover Page',Apply a 'Cover Page' style from 'Home',Select 'Insert' → 'Cover Page'
+56,Which Excel function calculates the total number of cells that contain text?,COUNTA,COUNTIF,COUNT,TEXT,COUNTA
+57,"In MS Word, which option allows you to change the document's orientation?",Select 'Layout' → 'Orientation',Use 'Page Layout' → 'Orientation',Click 'Design' → 'Orientation',Apply 'Orientation' from 'Home',Use 'Page Layout' → 'Orientation'
+58,Which Excel feature allows you to view data in a graphical format?,Charts,Tables,Conditional Formatting,Data Validation,Charts
+59,"In MS Word, how can you add a watermark to a document?",Select 'Design' → 'Watermark',Use 'Insert' → 'Watermark',Click 'Page Layout' → 'Watermark',Apply a 'Watermark' style from 'Home',Select 'Design' → 'Watermark'
+60,"Which Excel function returns the average of numbers in a range, excluding any errors?",AGGREGATE,AVERAGEIF,AVERAGE,IFERROR,AGGREGATE
+61,"In MS Word, how can you create a hyperlink?",Select text → right-click → 'Hyperlink',Use 'Insert' → 'Hyperlink',Click 'Home' → 'Hyperlink',Apply a 'Link' style from 'Design',Use 'Insert' → 'Hyperlink'
+62,Which Excel feature allows you to create a pivot table to summarize data?,PivotTable,Data Table,Chart,Range,PivotTable
+63,"In MS Word, which option is used to change the font size of selected text?",Use the 'Font Size' dropdown in the Home tab,Apply 'Text Size' from the Design tab,Click 'Formatting' → 'Font Size',Select 'Home' → 'Text Size',Use the 'Font Size' dropdown in the Home tab
+64,Which Excel function finds the position of a substring within a string?,FIND,SEARCH,POSITION,LOCATE,SEARCH
+65,"In MS Word, which option allows you to adjust the spacing between lines of text?",Line Spacing,Paragraph Spacing,Text Alignment,Indentation,Line Spacing
+66,Which Excel function converts a number to text in a specified format?,TEXT,VALUE,CONVERT,FORMAT,TEXT
+67,"In MS Word, how can you add a comment to a document?",Select text → right-click → 'New Comment',Use 'Review' → 'New Comment',Click 'Insert' → 'Comment',Apply 'Comment' from the 'Design' tab,Use 'Review' → 'New Comment'
+68,Which Excel feature allows you to highlight cells that meet specific criteria?,Conditional Formatting,Data Validation,Find & Replace,Cell Styles,Conditional Formatting
+69,"In MS Word, how do you create a numbered list?",Select 'Home' → 'Numbering',Use 'Insert' → 'Numbering',Click 'Design' → 'Numbering',Apply a 'List' style from 'Home',Select 'Home' → 'Numbering'
+70,Which Excel function calculates the number of rows in a range?,ROWS,COUNT,COUNTA,SUM,ROWS
