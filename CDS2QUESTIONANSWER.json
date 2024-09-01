@@ -1,0 +1,142 @@
+{
+  "quiz_title": "Science and General Knowledge",
+  "questions": [
+    {
+      "question": "Which one among the following is not a micronutrient for plants?",
+      "options": ["Iron", "Manganese", "Magnesium", "Chlorine"],
+      "correct_answer": "Magnesium",
+      "solution": "Micronutrients for plants include iron, manganese, zinc, copper, molybdenum, boron, and chlorine. Magnesium is a macronutrient."
+    },
+    {
+      "question": "Halophytes are the plants that grow on which one among the following categories of soil?",
+      "options": ["Acidic soil", "Saline soil", "Black soil", "Sandy soil"],
+      "correct_answer": "Saline soil",
+      "solution": "Halophytes are salt-tolerant plants that grow in saline soils."
+    },
+    {
+      "question": "Xylem in the plants are responsible for the transport of:",
+      "options": ["Water", "Water and dissolved minerals", "Gases", "Food"],
+      "correct_answer": "Water and dissolved minerals",
+      "solution": "Xylem is the tissue in vascular plants that transports water and dissolved minerals from roots to other parts of the plant."
+    },
+    {
+      "question": "Which one among the following hormones inhibits the growth activity in plants?",
+      "options": ["Auxins", "Cytokinins", "Abscisic acid", "Gibberellins"],
+      "correct_answer": "Abscisic acid",
+      "solution": "Abscisic acid is a plant hormone that inhibits growth and promotes dormancy."
+    },
+    {
+      "question": "Which of the following biomolecules does starch belong to?",
+      "options": ["Protein", "Carbohydrate", "Lipid", "Nucleic acid"],
+      "correct_answer": "Carbohydrate",
+      "solution": "Starch is a carbohydrate, specifically a polysaccharide, that serves as an energy reserve in plants."
+    },
+    {
+      "question": "Which one among the following is not a feature of Xerophytes?",
+      "options": ["Smaller leaves", "Large number of stomata", "Waxy cuticle", "Stomata in pits"],
+      "correct_answer": "Large number of stomata",
+      "solution": "Xerophytes are plants adapted to dry environments, typically having fewer stomata to reduce water loss."
+    },
+    {
+      "question": "Which one among the following is not a part of the vascular bundle in plants?",
+      "options": ["Phloem", "Xylem", "Cambium", "Endodermis"],
+      "correct_answer": "Endodermis",
+      "solution": "The vascular bundle in plants consists of xylem, phloem, and cambium. Endodermis is not a part of the vascular bundle."
+    },
+    {
+      "question": "In which one among the following mediums would the speed of sound be maximum?",
+      "options": ["Distilled water", "Sea water", "Drinking water", "Methanol"],
+      "correct_answer": "Sea water",
+      "solution": "The speed of sound is maximum in sea water due to its higher density compared to distilled water, drinking water, and methanol."
+    },
+    {
+      "question": "Which organelle in animal cells can digest foreign materials?",
+      "options": ["Endoplasmic reticulum", "Lysosome", "Golgi body", "Mitochondria"],
+      "correct_answer": "Lysosome",
+      "solution": "Lysosomes contain digestive enzymes that break down foreign materials, waste products, and cellular debris."
+    },
+    {
+      "question": "Photosynthesis that converts light energy into chemical energy by the plants involves the use of green pigments of leaves called chlorophyll. The only structure in a leaf that hosts chlorophyll is:",
+      "options": ["Nucleus", "Ribosome", "Chloroplast", "Chromosome"],
+      "correct_answer": "Chloroplast",
+      "solution": "Chloroplasts are the organelles in plant cells that contain chlorophyll and conduct photosynthesis."
+    },
+    {
+      "question": "In which of the following colloids is the dispersing medium a liquid?",
+      "options": ["Mist", "Foam", "Jelly", "Shaving cream"],
+      "correct_answer": "Mist",
+      "solution": "Mist is a colloidal dispersion where tiny liquid droplets are dispersed in a gas (air)."
+    },
+    {
+      "question": "The two isotopes of elemental chlorine are:",
+      "options": ["17^35C and 17^36C", "17^34C and 18^36C", "17^35C and 18^31C", "17^35C and 17^37C"],
+      "correct_answer": "17^35C and 17^37C",
+      "solution": "Chlorine has two common isotopes, \(^{35}Cl\) and \(^{37}Cl\), both having 17 protons but different numbers of neutrons."
+    },
+    {
+      "question": "Which one among the following metals is stored under oil?",
+      "options": ["Sodium", "Rubidium", "Potassium", "Lithium"],
+      "correct_answer": "Sodium",
+      "solution": "Sodium is highly reactive with water and air, and therefore it is stored under oil to prevent it from reacting."
+    },
+    {
+      "question": "Potassium nitrate is not used:",
+      "options": ["as a fertilizer", "in medicine", "in making gunpowder", "as a preservative of meat products"],
+      "correct_answer": "as a preservative of meat products",
+      "solution": "Potassium nitrate is used in fertilizers, gunpowder, and medicine, but not as a meat preservative."
+    },
+    {
+      "question": "The surface of the concrete structure of a new construction is covered with straw/gunny bags by wetting. This is done to:",
+      "options": ["prevent fast evaporation, until hydration has proceeded well", "protect the concrete structure from contamination by dust particles", "prevent the development of any fungus on the surface", "give a smoother and cleaner surface over the cement structure"],
+      "correct_answer": "prevent fast evaporation, until hydration has proceeded well",
+      "solution": "Keeping the surface wet prevents quick evaporation of water, which helps in proper hydration and curing of concrete."
+    },
+    {
+      "question": "Which one among the following statements for the gases mentioned below is not correct?",
+      "options": ["Hydrogen has 3 isotopes.", "Helium is a commonly used gas in electric bulbs.", "Oxygen is used to burn fuel in rocket engines in spacecraft.", "Nitrogen can be used in gaseous form to replace air in food packaging."],
+      "correct_answer": "Helium is a commonly used gas in electric bulbs.",
+      "solution": "Argon, not helium, is commonly used in electric bulbs to prevent the tungsten filament from oxidizing."
+    },
+    {
+      "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:",
+      "options": [
+        "A-3, B-1, C-2, D-4",
+        "A-3, B-2, C-1, D-4",
+        "A-4, B-2, C-1, D-3",
+        "A-4, B-1, C-2, D-3"
+      ],
+      "correct_answer": "A-3, B-1, C-2, D-4",
+      "solution": "A. Bleaching powder - Calcium oxychloride (3)\nB. Baking soda - Sodium bicarbonate (1)\nC. Washing soda - Sodium carbonate, 10 water (2)\nD. Plaster of Paris - Calcium sulphate, water 1/2 (4)"
+    },
+    {
+      "question": "Which one among the following statements is not true for glass?",
+      "options": ["Sodium silicate is known as water glass.", "Glass is also called a super-cooled liquid.", "Crystallinity develops on cooling of the molten mass of the glass.", "Colored glasses can be made by adding different coloring materials."],
+      "correct_answer": "Crystallinity develops on cooling of the molten mass of the glass.",
+      "solution": "Glass is an amorphous solid; it does not develop crystallinity on cooling."
+    },
+    {
+      "question": "Which one among the following is responsible for determining the chemical properties of an element?",
+      "options": ["Protons", "Electrons", "Neutrons"],
+      "correct_answer": "Electrons",
+      "solution": "The chemical properties of an element are primarily determined by its electrons, particularly the valence electrons."
+    },
+    {
+      "question": "X-rays can be used to:",
+      "options": ["1 only", "2 only", "Both 1 and 2", "Neither 1 nor 2"],
+      "correct_answer": "Both 1 and 2",
+      "solution": "X-rays can be used to inspect welded joints and study the structure of crystals."
+    },
+    {
+      "question": "Which one of the following heat transfers is an example of convection?",
+      "options": ["Heating of food in a microwave oven", "Boiling water in a pot on a gas stove", "Feeling the warmth in the sun", "The warm air that circulates in a room due to an air conditioner"],
+      "correct_answer": "Boiling water in a pot on a gas stove",
+      "solution": "Boiling water in a pot on a stove is an example of convection, where heat is transferred by the movement of liquid (water)."
+    },
+    {
+      "question": "Which one among the following waves carries the maximum energy per quantum?",
+      "options": ["X-rays", "Ultraviolet rays", "Radio waves", "Visible light waves"],
+      "correct_answer": "X-rays",
+      "solution": "X-rays have higher frequencies and therefore carry more energy per quantum compared to ultraviolet rays, radio waves, and visible light waves."
+    }
+  ]
+}
